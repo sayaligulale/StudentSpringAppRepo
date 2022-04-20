@@ -27,7 +27,7 @@ import com.web.student.rest.StudentRestController;
 
 @Controller
 public class StudentController {
-	
+	//this is studentcontroller
 	@Autowired
 	private StudentService studentService;
 	

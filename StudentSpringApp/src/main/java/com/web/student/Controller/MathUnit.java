@@ -1,7 +1,7 @@
 package com.web.student.Controller;
 
 public class MathUnit {
-	
+	//This is MathUTit
 	public int add(int a,int b) {
 		return a+b;
 	}
